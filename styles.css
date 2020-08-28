@@ -1,3 +1,18 @@
+html {
+  font-size: 62.5%;
+  font-family: serif;
+}
+
+.main{
+  font-size: 1.8rem;
+  line-height: 1.6;
+  margin: auto;
+  color: #4a4a4a;
+  background-color: #f9f9f9;
+  padding: 13px;
+}
+
+
 .signup {
   position: -webkit-sticky;
   position: sticky;
@@ -7,9 +22,4 @@
   left: 0;
   background-color: green;
   padding-top: 10px;
-}
-
-.main{
-  margin-left: 100px;
-  paddingL 0px 10px;
 }
